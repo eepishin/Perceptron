@@ -1,4 +1,4 @@
-# perceptron-gradient-descent
+# Perceptron
 # Perceptron. Batch Gradient Descent
 
 
